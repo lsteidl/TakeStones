@@ -1,5 +1,6 @@
 # TakeStones
-Implementation of the Alpha-Beta pruning algorithm to play a two-player game called Take-Stones
+Implementation of the Alpha-Beta pruning algorithm to play a two-player game called Take-Stones.
+Skeleton code provided by professor. Enhancements made according to project description.
 
 Game Rules
 The game starts with n stones numbered 1, 2, 3, ..., n. Players take turns removing one of the remaining numbered stones. At a given turn there are some restrictions on which numbers (i.e., stones) are legal candidates to be taken. The restrictions are:
